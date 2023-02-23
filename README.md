@@ -11,7 +11,7 @@ This is the central location for all slides and code that's being presented at t
 
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
-| Keynote | Sydney Davis |Slides(https://drive.google.com/file/d/1gHN4f_CWRt6zlVdsUQScX96ZrJ_ENr84/view?usp=sharing)|
+| Keynote | Sydney Davis |Slides[https://drive.google.com/file/d/1gHN4f_CWRt6zlVdsUQScX96ZrJ_ENr84/view?usp=sharing)]|
 
 ### Day 2: Saturday, February 24, 2023
 
