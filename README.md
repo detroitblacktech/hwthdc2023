@@ -23,6 +23,7 @@ This is the central location for all slides and code that's being presented at t
 
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
+| The Versatility of Chatbots | Danielle Williams |[Slides]()|[Repo](https://github.com/Danicodes/hwthdc2023/)|
 
 ### Day 3: Saturday, February 25, 2023
 
