@@ -7,7 +7,7 @@ This is the central location for all slides and code that's being presented at t
 
 ## Slides and Code
 
-### Day 1: Friday, February 23, 2023
+### Day 1: Thursday, February 23, 2023
 
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
@@ -19,16 +19,23 @@ This is the central location for all slides and code that's being presented at t
 | gRPC vs RESTFul API Services| Anthony Mays |[Slides](https://docs.google.com/presentation/d/12srYhDQVXXKbfDm4huNNkdUhRjF24Es49H2vZDew59o/edit#slide=id.g1f347a01a5d_0_0)|[Repo]()|
 
 
-### Day 2: Saturday, February 24, 2023
+### Day 2: Friday, February 24, 2023
 
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
-| The Versatility of Chatbots | Danielle Williams |[Slides]()|[Repo](https://github.com/Danicodes/hwthdc2023/)|
+| Selecting your No Code / Low-Code Platform|Jordan Morgan |[Slides](https://docs.google.com/presentation/d/1g2V-3uPttHW3LhVK5lsFi8DbPrE1d6EhK1zq4QlR4Tg/edit?usp=sharing)|[Repo](https://github.com/detroitblacktech/hwthdc2023/raw/main/resources/NoCodeCheatSheet.xlsx)|
+| Integrating with other applications using Zapier|Chris Davis |[Slides](https://docs.google.com/presentation/d/1LkmYzX-B2xy2HzX5nHwvQNAIfzaoSfPAf9mOnr53AoE/edit?usp=sharing)|[Repo]()|
+| Using ChatGPT to generate code|Jeseekia Vaughn |[Slides](https://docs.google.com/presentation/d/1QnEggoqQKCOIDznx_jpoQN0rk1TN3zADzJpxRAPNLkQ/edit?usp=sharing)|[Repo](https://github.com/jeseekia/crawl-walk-run/tree/main/ai/hwth-generating-code-with-chatgpt)|
+| Native Cloud Development with AWS Cloud Development Kit |Donald Akujobi|[Slides](https://docs.google.com/presentation/d/1ZIgqfiVmWUd64nLJ7xoevBRTaSBtSvT37hvU81_rTIY/edit?usp=sharing)|[Repo]()|
+| The Versatility of Chatbots |Danielle Williams|[Slides](https://docs.google.com/presentation/d/1dkg2c1aO4xBLXYQxgOgnIQ76O9q9MnAq/edit?usp=sharing&ouid=112242851747925518540&rtpof=true&sd=true)|[Repo](https://github.com/Danicodes/hwthdc2023/)|
+| Building An App on Glide |Eraina Ferguson|[Slides](https://docs.google.com/presentation/d/13oI69UgBIXRcOj1OU5hT8dWBBuNO1dFtVe2s-iCKcdE/edit?usp=sharing)|[Repo]()|
+
 
 ### Day 3: Saturday, February 25, 2023
 
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
+
 
 
 ## Cheetsheets
