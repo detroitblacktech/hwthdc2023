@@ -27,7 +27,7 @@ This is the central location for all slides and code that's being presented at t
 | Integrating with other applications using Zapier|Chris Davis |[Slides](https://docs.google.com/presentation/d/1LkmYzX-B2xy2HzX5nHwvQNAIfzaoSfPAf9mOnr53AoE/edit?usp=sharing)|[Repo]()|
 | Using ChatGPT to generate code|Jeseekia Vaughn |[Slides](https://docs.google.com/presentation/d/1QnEggoqQKCOIDznx_jpoQN0rk1TN3zADzJpxRAPNLkQ/edit?usp=sharing)|[Repo](https://github.com/jeseekia/crawl-walk-run/tree/main/ai/hwth-generating-code-with-chatgpt)|
 | Native Cloud Development with AWS Cloud Development Kit |Donald Akujobi|[Slides](https://docs.google.com/presentation/d/1ZIgqfiVmWUd64nLJ7xoevBRTaSBtSvT37hvU81_rTIY/edit?usp=sharing)|[Repo]()|
-| Get started with writing a chatbot |Danielle Williams|[Slides](https://docs.google.com/presentation/d/1dkg2c1aO4xBLXYQxgOgnIQ76O9q9MnAq/edit?usp=sharing&ouid=112242851747925518540&rtpof=true&sd=true)|[Repo]()|
+| The Versatility of Chatbots |Danielle Williams|[Slides](https://docs.google.com/presentation/d/1dkg2c1aO4xBLXYQxgOgnIQ76O9q9MnAq/edit?usp=sharing&ouid=112242851747925518540&rtpof=true&sd=true)|[Repo](https://github.com/Danicodes/hwthdc2023/)|
 | Building An App on Glide |Eraina Ferguson|[Slides](https://docs.google.com/presentation/d/13oI69UgBIXRcOj1OU5hT8dWBBuNO1dFtVe2s-iCKcdE/edit?usp=sharing)|[Repo]()|
 
 
