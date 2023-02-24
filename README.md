@@ -23,6 +23,7 @@ This is the central location for all slides and code that's being presented at t
 
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
+| Selecting your No Code / Low-Code Platform|Jordan Morgan |[Slides](https://docs.google.com/presentation/d/1g2V-3uPttHW3LhVK5lsFi8DbPrE1d6EhK1zq4QlR4Tg/edit?usp=sharing)|[Repo]()|
 
 ### Day 3: Saturday, February 25, 2023
 
