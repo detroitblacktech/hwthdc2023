@@ -24,7 +24,7 @@ This is the central location for all slides and code that's being presented at t
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
 | Selecting your No Code / Low-Code Platform|Jordan Morgan |[Slides](https://docs.google.com/presentation/d/1g2V-3uPttHW3LhVK5lsFi8DbPrE1d6EhK1zq4QlR4Tg/edit?usp=sharing)|[Repo](https://github.com/detroitblacktech/hwthdc2023/raw/main/resources/NoCodeCheatSheet.xlsx)|
-| Integrating with other applications using Zapier|Chris Davis |[Slides]()|[Repo]()|
+| Integrating with other applications using Zapier|Chris Davis |[Slides](https://docs.google.com/presentation/d/1LkmYzX-B2xy2HzX5nHwvQNAIfzaoSfPAf9mOnr53AoE/edit?usp=sharing)|[Repo]()|
 | Using ChatGPT to generate code|Jeseekia Vaughn |[Slides](https://docs.google.com/presentation/d/1QnEggoqQKCOIDznx_jpoQN0rk1TN3zADzJpxRAPNLkQ/edit?usp=sharing)|[Repo](https://github.com/jeseekia/crawl-walk-run/tree/main/ai/hwth-generating-code-with-chatgpt)|
 | Native Cloud Development with AWS Cloud Development Kit |Donald Akujobi|[Slides](https://docs.google.com/presentation/d/1ZIgqfiVmWUd64nLJ7xoevBRTaSBtSvT37hvU81_rTIY/edit?usp=sharing)|[Repo]()|
 | Get started with writing a chatbot |Danielle Williams|[Slides](https://docs.google.com/presentation/d/1dkg2c1aO4xBLXYQxgOgnIQ76O9q9MnAq/edit?usp=sharing&ouid=112242851747925518540&rtpof=true&sd=true)|[Repo]()|
